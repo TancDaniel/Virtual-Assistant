@@ -1,6 +1,8 @@
 # Virtual-Assistant
 Virtual Assistant MaximusAI
 
+It's screenshots. I know.
+
 What can this program do?
 
 Tell you the time / date;
